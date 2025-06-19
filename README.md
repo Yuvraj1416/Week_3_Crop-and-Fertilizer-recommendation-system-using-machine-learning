@@ -1,2 +1,1 @@
-# Week_3_Crop-and-Fertilizer-recommendation-system-using-machine-learning
-Internship Project
+# week_3-Crop-and-fertiliser-recommendation-system-using-machine-learning
